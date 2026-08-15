@@ -1,0 +1,19 @@
+PID,abs_velocity_mm_yr,accel_mm_yr,kinematic_level_ref,agent_predicted_level,level_label,recommended_action
+1,65.51,26.87,4,4,Moderately Active,FIELD INSPECTION
+1,39.65,179.09,4,4,Moderately Active,FIELD INSPECTION
+1,5.53,-150.58,2,3,Slow Active,ENHANCED MONITORING
+1,2.28,-89.45,2,3,Slow Active,ENHANCED MONITORING
+1,47.85,84.76,4,4,Moderately Active,FIELD INSPECTION
+1,19.87,2.43,3,3,Slow Active,ENHANCED MONITORING
+1,0.54,-1.51,1,3,Slow Active,ENHANCED MONITORING
+1,40.69,-106.65,4,4,Moderately Active,FIELD INSPECTION
+1,58.75,9.23,4,4,Moderately Active,FIELD INSPECTION
+1,36.93,162.32,4,4,Moderately Active,FIELD INSPECTION
+1,38.95,-118.37,4,4,Moderately Active,FIELD INSPECTION
+1,11.85,113.2,3,3,Slow Active,ENHANCED MONITORING
+1,31.3,-48.08,4,4,Moderately Active,FIELD INSPECTION
+1,33.03,63.12,4,4,Moderately Active,FIELD INSPECTION
+1,2.42,-10.37,2,3,Slow Active,ENHANCED MONITORING
+1,16.37,-56.8,3,3,Slow Active,ENHANCED MONITORING
+1,20.82,101.44,3,3,Slow Active,ENHANCED MONITORING
+1,7.8,-77.05,2,3,Slow Active,ENHANCED MONITORING

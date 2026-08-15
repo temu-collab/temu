@@ -1,0 +1,14 @@
+{
+  "n_iterations": 48,
+  "timesteps": 100352,
+  "a1_plateau": {
+    "train/loss": 86.03520011901855,
+    "train/value_loss": 174.3587378382683,
+    "train/entropy_loss": -0.3643742792773992
+  },
+  "a2_plateau": {
+    "train/loss": 50.5085015296936,
+    "train/value_loss": 104.37868341207503,
+    "train/entropy_loss": -0.35277661068830635
+  }
+}
